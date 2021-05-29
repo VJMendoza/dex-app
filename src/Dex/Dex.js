@@ -19,7 +19,6 @@ class Dex extends React.Component {
   }
 
   render() {
-    const P = new Pokedex();
 
     return (JSON.stringify(this.state.test));
   }
